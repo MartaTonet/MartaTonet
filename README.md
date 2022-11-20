@@ -1,8 +1,9 @@
 ## Olá! Eu sou a Marta Tonet
 
 
-- 🔭 Estou fazendo estágio em Costumer Success
-- 🔭 Estou estudando HTML, CSS, JAVASCRIPT, Mongo, SQLITE, API REST e NODE JS. 
+- 🔭 Estou trabalhando como Analista de TI no banco Neon
+- 🔭 Estudei HTML, CSS, JAVASCRIPT, Mongo, SQLITE, API REST e NODE JS. 
+- 🔭 Atualmente estou estudando C# e  Testes em .Net
 - 👯 Gosto de trabalhar em equipe
 
 <div align="center">
